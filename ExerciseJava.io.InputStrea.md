@@ -6,6 +6,7 @@ Add popular Java class notes to this for use by ZipCoders.
 
 see [ExerciseJava.io.InputStream.md](https://github.com/xt0fer/JavaZipBook-v1/blob/master/java.lang.Object.md)
 
+## Popular Methods
 int	available()
 Returns an estimate of the number of bytes that can be read (or skipped over) from this input stream without blocking by the next invocation of a method for this input stream.
 
