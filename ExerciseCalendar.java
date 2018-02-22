@@ -4,6 +4,11 @@ import java.util.Calendar;
 
 
 public class ExerciseCalendar {
+
+    ExerciseCalendar(){
+
+    }
+
     public static void main(String[] args){
 
         //amy's code is here:
@@ -25,9 +30,8 @@ public class ExerciseCalendar {
 
     compareTo(when) < 0;
 
-    ExerciseCalendar(){
+    //talk about after! :)
 
-    }
 
     public static void excercise(){
         Calendar cal1 = new Calendar();
