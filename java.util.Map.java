@@ -39,7 +39,7 @@ public class Map {
         // populate Map below
         example.put(1, "Pink");
         example.put(2, "Rainbow");
-        example.put(3, "Diamond");
+        example.put(3, "Diamond");git
 
         // check existence of value Rainbow
         System.out.println("Check if value Rainbow exists: " + newmap.containsValue("Rainbow"));
