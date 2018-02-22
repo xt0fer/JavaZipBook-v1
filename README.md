@@ -4,4 +4,4 @@ Add popular Java class notes to this for use by ZipCoders.
 
 ## Object (java.lang.Object)
 
-see Object.md
+see [Object.md](JavaZipBook-1/Object.md)
