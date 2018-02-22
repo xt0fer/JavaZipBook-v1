@@ -2,6 +2,9 @@ package com.zipcodewilmington.javabook1;
 
 import java.util.Calendar;
 
+/*hello everyone:) the below will NOT print what we call a "calendar" BUT it gets and sets and manipulates data
+beautifully*/
+
 
 public class ExerciseCalendar {
 
@@ -30,7 +33,7 @@ public class ExerciseCalendar {
 
     compareTo(when) < 0;
 
-    //talk about after! :)
+    //talk about how to represent a time after! :)
 
 
     public static void excercise(){
