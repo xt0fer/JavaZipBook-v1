@@ -40,3 +40,45 @@ public class ExerciseObject {
         System.out.println();
     }
 }
+package com.zipcodewilmington.javazipbook1;
+
+        import java.util.logging.level;
+        import java.util.logging.logger;
+/*
+
+ ***Created by Jess *** :)
+
+ */
+
+
+public class Map {
+
+    public Map (){
+
+    }
+    public boolean containsKeyExample (objectKey){
+        Map example = new Map();
+
+// populate Map
+
+        example.put("Ice Cream");
+        example.put("Pizza");
+        example.put("Dog");
+
+    }
+    public Map containsValue (){
+
+    }
+    public Map remove (){
+
+    }
+    public Map clear (){
+
+    }
+    public Map get (){
+
+    }
+    public Map keySet (){
+
+    }
+}
